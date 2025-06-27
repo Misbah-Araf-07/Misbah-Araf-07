@@ -16,15 +16,15 @@
 <p>👩🏻‍💻Studying CSE at <b>East West University📚</b></p>
 <p>💻A Constant learner of <b><i>C programming language</i></b>📱</p>
 <p>💡Eager to learn Front-end & Back-end aspects of <i>AI and Game Development🧠</i></p>
-<p>💬Contact me at: <a href="mailto:arafallen0@gmail.com">arafallen0@gmail.com</a> or at <a href="mailto:2025-2-60-182@gmail.com">2025-2-60-182@gmail.com</a>🗳</p>
+<p>💬Contact me at: <a href="mailto:arafallen0@gmail.com">arafallen0@gmail.com</a> or at <a href="mailto:2025-2-60-182@std.ewubd.edu">2025-2-60-182@std.ewubd.edu</a>🗳</p>
 
 ---
 
 ## ⚙️ Languages ⚙️ 
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" width="40"/>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" width="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="47"/>
 
 
 ---
