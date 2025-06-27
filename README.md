@@ -1,10 +1,11 @@
 <div align="center">   <img src="https://github.com/Misbah-Araf-07/Misbah-Araf-07/blob/main/New%20Project(5).png" alt="Description" width="400"/> </div>
+
 <p align="center" style="font-size:22px; font-weight:bold; margin:0;">
   A Constant debugger of life.<br>
   <span style="font-size:16px; font-weight:normal;">(Coding his way to a better future)</span>
 </p>
 
-
+<div align="center"> <img src="https://github.com/Misbah-Araf-07/Misbah-Araf-07/blob/main/tumblr_mtjget4P4m1ru39xmo1_500.gif" alt="Description" width="100"/> </div>
 
 ---
 <div align="center">
