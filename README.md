@@ -1,4 +1,4 @@
-<div align="center">   <img src="https://github.com/Misbah-Araf-07/Misbah-Araf-07/blob/main/New%20Project(5).png" alt="Description" width="600"/> </div>
+<div align="center">   <img src="https://github.com/Misbah-Araf-07/Misbah-Araf-07/blob/main/New%20Project(5).png" alt="Description" width="400"/> </div>
 <h2 align="center"> A Constant debugger of life. </h2> 
 <h4 align="center"> Coding his way to a better future.  </h4>
 
