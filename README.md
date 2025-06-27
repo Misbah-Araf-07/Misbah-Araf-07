@@ -1,6 +1,5 @@
-# <h1 align="center">   Greetings to my space 🙋‍♂️ This is **Araf**  </h1> 
-
-<h3 align="center"> A Constant debugger of life. </h3> 
+<div align="center">   <img src="https://github.com/Misbah-Araf-07/Misbah-Araf-07/blob/main/New%20Project(5).png" alt="Description" width="600"/> </div>
+<h2 align="center"> A Constant debugger of life. </h2> 
 <h4 align="center"> Coding his way to a better future.  </h4>
 
 ---
