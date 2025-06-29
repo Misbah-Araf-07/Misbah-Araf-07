@@ -30,7 +30,7 @@
 ---
 ## ⌛️My GitHub Streak⌛️
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Misbah-Araf-07&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Misbah-Araf-07&theme=buefy-dark)
 
 
 ---
