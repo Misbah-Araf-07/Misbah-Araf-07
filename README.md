@@ -25,7 +25,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C Logo" width="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="47"/>
-<img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" alt="C++ Logo"  width="48"/>
+<img src="https://www.freeiconspng.com/uploads/c--logo-icon-0.png" alt="C++ Logo"  width="50"/>
 
 
 ---
